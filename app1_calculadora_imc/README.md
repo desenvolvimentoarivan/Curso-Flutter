@@ -8,4 +8,4 @@ Foi utilizado setState
 
 ### Imagens do App
 
-![](app1_calculadora_imc\img\app.png)
+![](Curso-Flutter/app1_calculadora_imc/img/app.png)
