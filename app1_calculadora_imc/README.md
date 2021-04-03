@@ -8,4 +8,5 @@ Foi utilizado setState
 
 ### Imagens do App
 
-![](Curso-Flutter/app1_calculadora_imc/img/app.png)
+![alt text](https://github.com/desenvolvimentoarivan/Curso-Flutter/edit/main/app1_calculadora_imc/README.md)
+
